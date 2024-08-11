@@ -5,5 +5,5 @@ Collection of projects
  <p>Python</p>
 <h2>Frameworks</h2>
 <p>1.flask</p>
-<p>2.Django</p>
+<p>2.Django.</p>
 
